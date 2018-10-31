@@ -3,6 +3,6 @@ Just Beggining
 
 Hey!
 I like C++. 
-You lier. you hate c++.
 i love java
-
+=======
+I hate you.
